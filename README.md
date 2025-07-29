@@ -22,3 +22,12 @@ Construir um dashboard profissional de vendas com foco em:
 | `screenshots/dashboard.png`       | Imagem ilustrativa do dashboard                             |
 
 --
+🔒 Sobre os Dados
+Os dados utilizados neste projeto foram anônimos e/ou simulados para fins de apresentação. Nenhuma informação real ou sensível foi exposta.
+
+📬 Contato
+Caso queira trocar ideias, sugestões ou colaborações:
+
+Diego da Silva Menezes
+www.linkedin.com/in/diego-menezes-252115224
+Diego-menezes70@hotmail.com
